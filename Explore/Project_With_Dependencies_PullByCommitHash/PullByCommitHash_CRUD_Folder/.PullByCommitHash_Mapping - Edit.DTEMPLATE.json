@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "4aq5Y8i7ny1enfHnWd5Imw",
+    "name" : "PullByCommitHash_Mapping - Edit",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0100021700000000053M"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Mapping for testing Edit changes. ",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-08-28T07:02:36.717Z",
+  "objectRefs" : [ ]
+}
